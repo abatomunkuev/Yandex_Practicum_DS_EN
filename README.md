@@ -4,8 +4,7 @@ Completed Data Science projects throughout [Yandex Practicum "Specialist in Data
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Sentiment analysis: Toxic comments identification](nlp_toxic_comments) | Поиск токсичных комментариев и отправка их на модернизацию.
-Building a system that identifies toxic comments and sends them to be edited/viewed. Building a model that classifies comments into positive and negative.| *pandas numpy seaborn scipy datetime nltk xgboost lightgbm* | 
+| [Sentiment analysis: Toxic comments identification](nlp_toxic_comments) | Building a system that identifies toxic comments and sends them to be edited/viewed. Building a model that classifies comments into positive and negative.| *pandas numpy seaborn scipy datetime nltk xgboost lightgbm* | 
 | [Personal data encryption](insurance) | Developing an encryption algorithm so that after data transformation, the accuracy of Machine Learning models will not change as without transformation. Building a system (ML model) on encrypted data. Creating a custom Linear Regresssion model. | *pandas numpy seaborn scipy random* |
 | [Forecasting taxi orders](taxi_orders) | Buidling a system for predicting the number of taxi orders for the next hour to attract more drivers during peak periods. Build a model that predicts number of taxi orders in next hour. | *pandas numpy seaborn sklearn catboost xgboost lightgbm statsmodels* |
 | [Optimization of gold mining company production](gold_mining) | Optimizing gold mining production to avoid launching enterprises with unprofitable characteristics. Build a machine learning model to predict the recovery rate of gold from gold ore | *pandas numpy matplotlib seaborn scipy sklearn* |
