@@ -2,6 +2,8 @@
 
 Completed Data Science projects throughout [Yandex Practicum "Specialist in Data Science" training course](https://practicum.yandex.com/data-scientist)
 
+Link to visual portfolio - [my portfolio](https://visual-portfolio-batomunkuev.vercel.app)
+
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Sentiment analysis: Toxic comments identification](nlp_toxic_comments) | Building a system that identifies toxic comments and sends them to be edited/viewed. Building a model that classifies comments into positive and negative.| *pandas numpy seaborn scipy datetime nltk xgboost lightgbm* | 
