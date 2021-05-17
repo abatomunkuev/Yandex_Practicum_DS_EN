@@ -1,5 +1,7 @@
 # Pattern identification that determine success of the game
 
+[Jupyter Notebook viewer](https://nbviewer.jupyter.org/github/abatomunkuev/Yandex_Practicum_DS_EN/blob/main/game_success_analysis/game_success_analysis.ipynb)
+
 This project shows: 
 - ability of writing solid,structured Python code 
 - ability of using existing utilities(libraries) for processing and analyzing data.
