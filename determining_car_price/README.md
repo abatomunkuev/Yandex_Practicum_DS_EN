@@ -1,5 +1,7 @@
 # System to determine car value
 
+[Jupyter Notebook viewer](https://nbviewer.jupyter.org/github/abatomunkuev/Yandex_Practicum_DS_EN/blob/main/determining_car_price/determining_car_price.ipynb)
+
 This project shows: 
 - ability of writing solid,structured Python code 
 - ability of using existing utilities(libraries) for processing and analyzing data.
