@@ -1,5 +1,7 @@
 # Forecasting taxi orders
 
+[Jupyter Notebook viewer](https://nbviewer.jupyter.org/github/abatomunkuev/Yandex_Practicum_DS_EN/blob/main/taxi_orders/taxi_orders.ipynb)
+
 This project shows: 
 - ability to write structured code in Python. 
 - ability to use existing utilities (libraries) for data processing and analysis.
