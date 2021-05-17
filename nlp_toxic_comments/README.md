@@ -1,5 +1,7 @@
 # Sentiment analysis: Toxic comments identification
 
+[Jupyter NoteBook viewer](https://nbviewer.jupyter.org/github/abatomunkuev/Yandex_Practicum_DS_EN/blob/main/nlp_toxic_comments/nlp_text_sentiment.ipynb)
+
 This project shows: 
 - ability to write structured code in Python. 
 - ability to use existing utilities (libraries) for processing
